@@ -20,7 +20,6 @@ setup(
     ],
     py_modules = ['clipumi', 'version'],
     install_requires = [
-        'gzip'
     ],
     python_requires = '>=3',
     entry_points = {
