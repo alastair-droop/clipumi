@@ -21,7 +21,7 @@ setup(
     py_modules = ['clipumi', 'version'],
     install_requires = [
     ],
-    python_requires = '>=3',
+    python_requires = '>=2.6',
     entry_points = {
         'console_scripts': [
             'clipumi=clipumi:main'
